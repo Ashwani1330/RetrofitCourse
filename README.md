@@ -3,7 +3,7 @@
 A basic app fetching todos (json format) from an API using Retrofit and implement them using Recycler View.
 
 
-#### API Used: https: [JSON Placeholder](jsonplaceholder.typicode.com)
+#### API Used: https: [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 #### Notion Notes : [Link 📝](https://immediate-amusement-e5a.notion.site/Retrofit-ef3b28e1202c4bc88fb8b39e546f3fd6?pvs=4)
 
